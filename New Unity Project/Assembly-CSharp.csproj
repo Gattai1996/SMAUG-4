@@ -63,8 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GolemDamageScript.cs" />
     <Compile Include="Assets\MouseControls.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\RightHandScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Bruno/Desktop/SMAUG-4/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
